@@ -12,13 +12,13 @@ The audit of the election resulted in the following:
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 - As stated before, the county with the largest number of votes was Denver with 82,8% of the total votes.
-- Below is the breakdown of the number of votes per candidate.
+- Below is the breakdown of the number of votes per candidate
     - Charles Casper Stockham: 23.0% (85,213)
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
 - The winner of the election was Diana DeGette with 73.8% of total votes.
 
-The images below show the results printed in the terminal and in the text file respectively.
+The images below show the results printed in the terminal and in the text file, respectively.
 
 ![print_results_terminal.png](Resources/print_results_terminal.png)  ![print_results_txt.png](Resources/print_results_txt.png)
 
