@@ -1,7 +1,7 @@
 # Election Analysis with Python
 
 ## Overview of Election Audit
-The purpose of this project is to analyze data from a election, using a python script to determine the winner, as well as votes per candidate, votes per county, and total votes. The election data is presented in a csv file, and the results are printed in a txt file. Input file can be found on [election-results.csv](Resources/election_results.csv), the output on [election.txt](analysis/election_results.txt), and the script on [PyPoll_Challenge.py](PyPoll_Challenge.py).
+The purpose of this project is to analyze data from a congressional election, using a python script to determine the winner, as well as votes per candidate, votes per county, and total votes. The election data is presented in a csv file, and the results are printed in a txt file. Input file can be found on [election-results.csv](Resources/election_results.csv), the output on [election-results.txt](analysis/election_results.txt), and the script on [PyPoll_Challenge.py](PyPoll_Challenge.py).
 
 ## Election-Audit Results
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
