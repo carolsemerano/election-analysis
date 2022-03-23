@@ -7,7 +7,7 @@ The purpose of this project is to analyze data from a congressional election, us
 The audit of the election resulted in the following:
 
 - 369,711 people casted a ballot in this election.
-- From the total, 6.7% (24,801) votes were registered in Arapahoe, 10.5% (38,855) in Jefferson, and the vast majority Denver: 82.8% (306,055) in Denver. 
+- From the total, 6.7% (24,801) votes were registered in Arapahoe, 10.5% (38,855) in Jefferson, and the vast majority, 82.8% (306,055), in Denver. 
 - As stated before, the county with the largest number of votes was Denver with 82,8% of the total votes.
 - Votes per candidate were the following: 3.1% (11,606) for Raymon Anthony Doane, 23.0% (85,213) for Charles Casper Stockham, and 73.8% (272,892) for Diana DeGette.
 - The winner of the election was Diana DeGette with 73.8% of total votes.
